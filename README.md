@@ -44,19 +44,3 @@ A vertical bar graph compares attrition rates across various education fields. T
 
 6. Education Field-wise Attrition (Donut Plot):
 A donut plot offers an alternative representation of attrition rates based on education fields. It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
-
-
-# Overview:-
-## Dashboard 
-
-![Untitled design (1)](https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/ef4c85f2-0230-470b-8678-0f0c05643d49)
-
-## Dashboard Video
-https://github.com/jivanjotk/HR-Data-Analysis-Dashboard-Project-Powerbi/assets/122741477/6be74b0d-1152-48f9-a781-f497907281d2
-# Contributing
-Contributions to enhance the dashboard or address specific HR analytics challenges are welcome! Please create issues or pull requests to collaborate on improving the dashboard's functionality and visualization.
-# Links :-
-I've shared all the necessary files, datasets, workbooks, and icons above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated! 
-
-[ Connect with me on LinkedIn 🌐 ](www.linkedin.com/in/jivanjot-kaur-993220262)
-
